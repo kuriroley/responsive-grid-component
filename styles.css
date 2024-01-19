@@ -8,8 +8,8 @@ font-family: monospace;
 .container{
   background-color: whitesmoke;
   display: grid;
-  margin: 20px auto;
-  padding: 20px;
+  margin: 80px auto;
+  padding: 30px;
   width: 500px;
   height: 500px;
   grid-template-columns: 250px 250px;
